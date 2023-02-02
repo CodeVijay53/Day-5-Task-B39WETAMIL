@@ -35,3 +35,4 @@ arrpal.forEach((palnum) => {
   return palindrome;
 });
 console.log(palindrome);
+//Please have a review
