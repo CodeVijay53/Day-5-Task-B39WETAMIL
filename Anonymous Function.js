@@ -1,5 +1,6 @@
 // Do the below programs in anonymous function & IIFE
-// *****Read all codes Seperately*****
+
+
 // 1.a Print the odd numbers in an array.
 const arrodd = [1, 2, 3, 4, 5, 6];
 const odd = [];
